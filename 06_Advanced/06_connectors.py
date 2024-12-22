@@ -14,7 +14,7 @@ def print_user(user):
         "port": "3306",
         "database": "hello_mysql",
         "user": "root",
-        "password": "root1234"
+        "password": "psiloveyou"
     }
 
     # config = {
@@ -41,4 +41,4 @@ def print_user(user):
 
 
 print_user("Brais")
-# print_user("'; UPDATE users SET age = '15' WHERE user_id = 1; --")
+#print_user("'; UPDATE users SET age = '15' WHERE user_id = 1; --")
